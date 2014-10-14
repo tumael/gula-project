@@ -1,0 +1,29 @@
+body {
+	background: rgb(156,184,195);
+}
+
+.borde {
+	border-top: .5em solid black;
+	border-bottom: .5em solid black;
+}
+
+.borde-inferior {
+	border-top: none;
+	border-bottom: none;
+}
+
+.jumbotron {
+	background: rgb(40, 50, 63);
+	padding: 10px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.parrafo {
+	font-size: 5em;
+	margin-bottom: 5px;
+}
+
+.titulo {
+	color: white;
+}
